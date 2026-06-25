@@ -2,7 +2,7 @@
 
 A public-safe library of reusable agent definitions for product, design, engineering, research, review, and quality workflows.
 
-These agents are intentionally generic. They do not include proprietary product details, customer names, internal terminology, private roadmaps, or company-specific process language. Use them as starting points and customize them inside your own private workspace.
+These agents are intentionally generic. They do not include specific product details, customer names, company terminology, private roadmaps, or company-specific process language. Use them as starting points and customize them inside your enterprise or personal use case.
 
 ## What's Included
 
