@@ -12,6 +12,8 @@ These agents are intentionally generic. They do not include specific product det
 | UX Designer | Flows, hierarchy, copy, interaction patterns, design handoff |
 | Usability Evaluation Agent | Persona-driven usability testing and heuristic evaluation |
 | Research Synthesis Analyst | Turning mixed evidence into themes, risks, and decisions |
+| Project Delivery Manager | Plans, dependencies, milestones, and execution coordination |
+| Support Insights Analyst | Support themes, recurring pain points, and issue clustering |
 | Technical Architect | System shape, data flow, component boundaries, implementation risks |
 | Software Engineer | Concrete implementation plans and code-oriented execution |
 | Code Reviewer | Quality, security, accessibility, maintainability review |
