@@ -6,25 +6,51 @@ These agents are intentionally generic. They do not include specific product det
 
 ## What's Included
 
+The catalog is organized by functional category so it stays easy to browse as
+more agents are added.
+
+### Product and Strategy
+
 | Agent | Use When You Need |
 | --- | --- |
 | Product Strategy Partner | Scope, prioritization, requirements, acceptance criteria |
+
+### Design and Research
+
+| Agent | Use When You Need |
+| --- | --- |
 | UX Designer | Flows, hierarchy, copy, interaction patterns, design handoff |
 | Usability Evaluation Agent | Persona-driven usability testing and heuristic evaluation |
 | Research Synthesis Analyst | Turning mixed evidence into themes, risks, and decisions |
+
+### Delivery and Operations
+
+| Agent | Use When You Need |
+| --- | --- |
 | Project Delivery Manager | Plans, dependencies, milestones, and execution coordination |
+| Workflow Automation Strategist | Process mapping, manual-work reduction, automation opportunities, operational guardrails |
 | Support Insights Analyst | Support themes, recurring pain points, and issue clustering |
+
+### Engineering and Quality
+
+| Agent | Use When You Need |
+| --- | --- |
 | Technical Architect | System shape, data flow, component boundaries, implementation risks |
 | Software Engineer | Concrete implementation plans and code-oriented execution |
 | Code Reviewer | Quality, security, accessibility, maintainability review |
 | QA Readiness Analyst | Test planning, release confidence, scenario coverage |
+
+### Documentation
+
+| Agent | Use When You Need |
+| --- | --- |
 | Documentation Steward | Documentation audits, stale-doc fixes, onboarding clarity |
 
 ## Repository Layout
 
 ```text
 agents/
-  catalog.yaml             # Machine-readable agent definitions
+  catalog.yaml             # Machine-readable agent definitions with categories
   *.md                     # Human-readable agent cards
 adapters/crewai/
   agent_factory.py         # Minimal CrewAI adapter
